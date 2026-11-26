@@ -1,20 +1,20 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "time": "08:00",
- "updatedAt": "2026-11-25T11:18:20.848Z",
+ "updatedAt": "2026-11-26T09:31:51.982Z",
  "source": "МОСВ – Ежедневен бюлетин за състоянието на водите",
- "sourceUrl": "https://www.moew.government.bg/static/media/ups/tiny/Water%20Daily%20Bulletin/25112026_Bulletin_Daily.doc",
+ "sourceUrl": "https://www.moew.government.bg/static/media/ups/tiny/Water%20Daily%20Bulletin/26112026_Bulletin_Daily.doc",
  "dams": [
   {
    "name": "Искър",
    "basin": "БДДР",
    "totalMm3": 655.252,
-   "availableMm3": 511.821,
-   "pct": 78.11,
-   "usefulPct": 74.75,
-   "inflow": 8.22,
-   "outflow": 8.22,
-   "trend": "steady",
+   "availableMm3": 512.087,
+   "pct": 78.15,
+   "usefulPct": 74.8,
+   "inflow": 9.581,
+   "outflow": 6.507,
+   "trend": "up",
    "history": [
     [
      "2026-10-09",
@@ -147,6 +147,10 @@
     [
      "2026-11-25",
      78.11
+    ],
+    [
+     "2026-11-26",
+     78.15
     ]
    ]
   },
@@ -154,11 +158,11 @@
    "name": "Бели Искър",
    "basin": "БДДР",
    "totalMm3": 15.08,
-   "availableMm3": 11.268,
-   "pct": 74.72,
-   "usefulPct": 72.13,
-   "inflow": 1.654,
-   "outflow": 2.865,
+   "availableMm3": 11.201,
+   "pct": 74.28,
+   "usefulPct": 71.65,
+   "inflow": 1.917,
+   "outflow": 2.784,
    "trend": "down",
    "history": [
     [
@@ -292,6 +296,10 @@
     [
      "2026-11-25",
      74.72
+    ],
+    [
+     "2026-11-26",
+     74.28
     ]
    ]
   },
@@ -299,11 +307,11 @@
    "name": "Среченска бара",
    "basin": "БДДР",
    "totalMm3": 15.5,
-   "availableMm3": 11.78,
-   "pct": 76,
-   "usefulPct": 74.34,
-   "inflow": 2.095,
-   "outflow": 0.625,
+   "availableMm3": 11.9,
+   "pct": 76.77,
+   "usefulPct": 75.17,
+   "inflow": 2.037,
+   "outflow": 0.648,
    "trend": "up",
    "history": [
     [
@@ -437,6 +445,10 @@
     [
      "2026-11-25",
      76
+    ],
+    [
+     "2026-11-26",
+     76.77
     ]
    ]
   },
@@ -444,12 +456,12 @@
    "name": "Христо Смирненски",
    "basin": "БДДР",
    "totalMm3": 27.7,
-   "availableMm3": 24.198,
-   "pct": 87.36,
-   "usefulPct": 85.1,
-   "inflow": 0.359,
-   "outflow": 0.359,
-   "trend": "steady",
+   "availableMm3": 24.185,
+   "pct": 87.31,
+   "usefulPct": 85.04,
+   "inflow": 0.218,
+   "outflow": 0.364,
+   "trend": "down",
    "history": [
     [
      "2026-10-09",
@@ -582,6 +594,10 @@
     [
      "2026-11-25",
      87.36
+    ],
+    [
+     "2026-11-26",
+     87.31
     ]
    ]
   },
@@ -589,11 +605,11 @@
    "name": "Йовковци",
    "basin": "БДДР",
    "totalMm3": 92.179,
-   "availableMm3": 79.601,
-   "pct": 86.36,
-   "usefulPct": 84.88,
-   "inflow": 0.018,
-   "outflow": 0.916,
+   "availableMm3": 79.524,
+   "pct": 86.27,
+   "usefulPct": 84.79,
+   "inflow": 0.014,
+   "outflow": 0.912,
    "trend": "down",
    "history": [
     [
@@ -727,6 +743,10 @@
     [
      "2026-11-25",
      86.36
+    ],
+    [
+     "2026-11-26",
+     86.27
     ]
    ]
   },
@@ -734,11 +754,11 @@
    "name": "Тича",
    "basin": "БДЧР",
    "totalMm3": 311.8,
-   "availableMm3": 238.603,
-   "pct": 76.52,
-   "usefulPct": 73.07,
-   "inflow": 0.032,
-   "outflow": 1.45,
+   "availableMm3": 238.48,
+   "pct": 76.48,
+   "usefulPct": 73.02,
+   "inflow": 0.044,
+   "outflow": 1.462,
    "trend": "down",
    "history": [
     [
@@ -872,6 +892,10 @@
     [
      "2026-11-25",
      76.52
+    ],
+    [
+     "2026-11-26",
+     76.48
     ]
    ]
   },
@@ -879,11 +903,11 @@
    "name": "Камчия",
    "basin": "БДЧР",
    "totalMm3": 233.55,
-   "availableMm3": 187.548,
-   "pct": 80.3,
-   "usefulPct": 74.95,
-   "inflow": 0.009,
-   "outflow": 1.711,
+   "availableMm3": 187.211,
+   "pct": 80.16,
+   "usefulPct": 74.77,
+   "inflow": 1.298,
+   "outflow": 3.022,
    "trend": "down",
    "history": [
     [
@@ -1017,6 +1041,10 @@
     [
      "2026-11-25",
      80.3
+    ],
+    [
+     "2026-11-26",
+     80.16
     ]
    ]
   },
@@ -1024,11 +1052,11 @@
    "name": "Ясна поляна",
    "basin": "БДЧР",
    "totalMm3": 32.32,
-   "availableMm3": 23.483,
-   "pct": 72.66,
-   "usefulPct": 64.32,
+   "availableMm3": 23.448,
+   "pct": 72.55,
+   "usefulPct": 64.18,
    "inflow": 0.069,
-   "outflow": 0.428,
+   "outflow": 0.44,
    "trend": "down",
    "history": [
     [
@@ -1162,6 +1190,10 @@
     [
      "2026-11-25",
      72.66
+    ],
+    [
+     "2026-11-26",
+     72.55
     ]
    ]
   },
@@ -1169,11 +1201,11 @@
    "name": "Асеновец",
    "basin": "БДИБР",
    "totalMm3": 28.2,
-   "availableMm3": 22.2,
-   "pct": 78.72,
-   "usefulPct": 77.1,
-   "inflow": 0.116,
-   "outflow": 0.486,
+   "availableMm3": 22.16,
+   "pct": 78.58,
+   "usefulPct": 76.95,
+   "inflow": 0.104,
+   "outflow": 0.567,
    "trend": "down",
    "history": [
     [
@@ -1307,6 +1339,10 @@
     [
      "2026-11-25",
      78.72
+    ],
+    [
+     "2026-11-26",
+     78.58
     ]
    ]
   },
@@ -1314,10 +1350,10 @@
    "name": "Боровица",
    "basin": "БДИБР",
    "totalMm3": 27.3,
-   "availableMm3": 26.23,
-   "pct": 96.08,
-   "usefulPct": 95.29,
-   "inflow": 0.09,
+   "availableMm3": 26.22,
+   "pct": 96.04,
+   "usefulPct": 95.24,
+   "inflow": 0.148,
    "outflow": 0.264,
    "trend": "down",
    "history": [
@@ -1452,6 +1488,10 @@
     [
      "2026-11-25",
      96.08
+    ],
+    [
+     "2026-11-26",
+     96.04
     ]
    ]
   },
@@ -1459,11 +1499,11 @@
    "name": "Студена",
    "basin": "БДЗБР",
    "totalMm3": 25.2,
-   "availableMm3": 16.642,
-   "pct": 66.04,
-   "usefulPct": 62.46,
-   "inflow": 0.539,
-   "outflow": 0.75,
+   "availableMm3": 16.618,
+   "pct": 65.94,
+   "usefulPct": 62.36,
+   "inflow": 0.415,
+   "outflow": 0.693,
    "trend": "down",
    "history": [
     [
@@ -1597,6 +1637,10 @@
     [
      "2026-11-25",
      66.04
+    ],
+    [
+     "2026-11-26",
+     65.94
     ]
    ]
   },
@@ -1604,11 +1648,11 @@
    "name": "Дяково",
    "basin": "БДЗБР",
    "totalMm3": 35.4,
-   "availableMm3": 17.398,
-   "pct": 49.15,
-   "usefulPct": 34.3,
-   "inflow": 0.023,
-   "outflow": 0.314,
+   "availableMm3": 17.361,
+   "pct": 49.04,
+   "usefulPct": 34.16,
+   "inflow": 0,
+   "outflow": 0.437,
    "trend": "down",
    "history": [
     [
@@ -1742,6 +1786,10 @@
     [
      "2026-11-25",
      49.15
+    ],
+    [
+     "2026-11-26",
+     49.04
     ]
    ]
   },
@@ -1750,9 +1798,9 @@
    "reserve": true,
    "basin": "БДЗБР",
    "totalMm3": 1.024,
-   "availableMm3": 0.902,
-   "pct": 88.07,
-   "usefulPct": 86.77,
+   "availableMm3": 0.885,
+   "pct": 86.43,
+   "usefulPct": 84.96,
    "inflow": null,
    "outflow": null,
    "trend": "down",
@@ -1888,6 +1936,10 @@
     [
      "2026-11-25",
      88.07
+    ],
+    [
+     "2026-11-26",
+     86.43
     ]
    ]
   },
@@ -1897,11 +1949,11 @@
    "basin": "БДЗБР",
    "totalMm3": 2.252,
    "availableMm3": 1.141,
-   "pct": 50.64,
-   "usefulPct": 45.83,
+   "pct": 50.67,
+   "usefulPct": 45.87,
    "inflow": null,
    "outflow": null,
-   "trend": "steady",
+   "trend": "up",
    "history": [
     [
      "2026-10-09",
@@ -2034,6 +2086,10 @@
     [
      "2026-11-25",
      50.64
+    ],
+    [
+     "2026-11-26",
+     50.67
     ]
    ]
   },
@@ -2045,9 +2101,9 @@
    "availableMm3": 19.69,
    "pct": 62.31,
    "usefulPct": 59.07,
-   "inflow": 0.172,
-   "outflow": 0.38,
-   "trend": "down",
+   "inflow": 0.35,
+   "outflow": 0.35,
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -2180,6 +2236,10 @@
     [
      "2026-11-25",
      62.31
+    ],
+    [
+     "2026-11-26",
+     62.31
     ]
    ]
   },
@@ -2190,7 +2250,7 @@
    "availableMm3": 11.652,
    "pct": 26.34,
    "usefulPct": 22.85,
-   "inflow": 0.243,
+   "inflow": 0.035,
    "outflow": 0,
    "trend": "up",
    "history": [
@@ -2324,6 +2384,10 @@
     ],
     [
      "2026-11-25",
+     26.34
+    ],
+    [
+     "2026-11-26",
      26.34
     ]
    ]
@@ -2470,6 +2534,10 @@
     [
      "2026-11-25",
      85.82
+    ],
+    [
+     "2026-11-26",
+     85.82
     ]
    ]
   },
@@ -2477,11 +2545,11 @@
    "name": "Панчарево",
    "basin": "БДДР",
    "totalMm3": 6.465,
-   "availableMm3": 5.408,
-   "pct": 83.64,
-   "usefulPct": 78.7,
-   "inflow": 6.588,
-   "outflow": 7.926,
+   "availableMm3": 5.482,
+   "pct": 84.8,
+   "usefulPct": 80.21,
+   "inflow": 6.531,
+   "outflow": 5.665,
    "trend": "overflow",
    "history": [
     [
@@ -2615,6 +2683,10 @@
     [
      "2026-11-25",
      83.64
+    ],
+    [
+     "2026-11-26",
+     84.8
     ]
    ]
   },
@@ -2625,8 +2697,8 @@
    "availableMm3": 41.311,
    "pct": 66.31,
    "usefulPct": 64.06,
-   "inflow": 0.116,
-   "outflow": 0.116,
+   "inflow": 0.127,
+   "outflow": 0.127,
    "trend": "steady",
    "history": [
     [
@@ -2760,6 +2832,10 @@
     [
      "2026-11-25",
      66.31
+    ],
+    [
+     "2026-11-26",
+     66.31
     ]
    ]
   },
@@ -2770,9 +2846,9 @@
    "availableMm3": 10.477,
    "pct": 51.74,
    "usefulPct": 50.01,
-   "inflow": 0.012,
-   "outflow": 0.046,
-   "trend": "down",
+   "inflow": 0.035,
+   "outflow": 0.035,
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -2905,6 +2981,10 @@
     [
      "2026-11-25",
      51.74
+    ],
+    [
+     "2026-11-26",
+     51.74
     ]
    ]
   },
@@ -2916,8 +2996,8 @@
    "pct": 23,
    "usefulPct": 18.48,
    "inflow": 0,
-   "outflow": 0.023,
-   "trend": "down",
+   "outflow": 0,
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -3050,6 +3130,10 @@
     [
      "2026-11-25",
      23
+    ],
+    [
+     "2026-11-26",
+     23
     ]
    ]
   },
@@ -3057,10 +3141,10 @@
    "name": "Огоста",
    "basin": "БДДР",
    "totalMm3": 506,
-   "availableMm3": 202.925,
-   "pct": 40.1,
-   "usefulPct": 30.96,
-   "inflow": 7.396,
+   "availableMm3": 203.465,
+   "pct": 40.21,
+   "usefulPct": 31.09,
+   "inflow": 10.521,
    "outflow": 4.271,
    "trend": "up",
    "history": [
@@ -3195,6 +3279,10 @@
     [
      "2026-11-25",
      40.1
+    ],
+    [
+     "2026-11-26",
+     40.21
     ]
    ]
   },
@@ -3202,10 +3290,10 @@
    "name": "Сопот",
    "basin": "БДДР",
    "totalMm3": 60.908,
-   "availableMm3": 35.052,
-   "pct": 57.55,
-   "usefulPct": 56.62,
-   "inflow": 0.822,
+   "availableMm3": 35.192,
+   "pct": 57.78,
+   "usefulPct": 56.86,
+   "inflow": 1.887,
    "outflow": 0.266,
    "trend": "up",
    "history": [
@@ -3340,6 +3428,10 @@
     [
      "2026-11-25",
      57.55
+    ],
+    [
+     "2026-11-26",
+     57.78
     ]
    ]
   },
@@ -3347,10 +3439,10 @@
    "name": "Горни Дъбник",
    "basin": "БДДР",
    "totalMm3": 130,
-   "availableMm3": 51.059,
-   "pct": 39.28,
-   "usefulPct": 37.84,
-   "inflow": 2.407,
+   "availableMm3": 51.116,
+   "pct": 39.32,
+   "usefulPct": 37.89,
+   "inflow": 1.076,
    "outflow": 0.417,
    "trend": "up",
    "history": [
@@ -3485,6 +3577,10 @@
     [
      "2026-11-25",
      39.28
+    ],
+    [
+     "2026-11-26",
+     39.32
     ]
    ]
   },
@@ -3495,8 +3591,8 @@
    "availableMm3": 6.488,
    "pct": 25.44,
    "usefulPct": 14.74,
-   "inflow": 0.069,
-   "outflow": 0.069,
+   "inflow": 0.081,
+   "outflow": 0.081,
    "trend": "steady",
    "history": [
     [
@@ -3629,6 +3725,10 @@
     ],
     [
      "2026-11-25",
+     25.44
+    ],
+    [
+     "2026-11-26",
      25.44
     ]
    ]
@@ -3775,6 +3875,10 @@
     [
      "2026-11-25",
      61.2
+    ],
+    [
+     "2026-11-26",
+     61.2
     ]
    ]
   },
@@ -3783,11 +3887,11 @@
    "alias": "Цонево",
    "basin": "БДЧР",
    "totalMm3": 330,
-   "availableMm3": 221.255,
-   "pct": 67.05,
-   "usefulPct": 64.81,
-   "inflow": 0.224,
-   "outflow": 1.937,
+   "availableMm3": 220.959,
+   "pct": 66.96,
+   "usefulPct": 64.71,
+   "inflow": 0.015,
+   "outflow": 3.441,
    "trend": "down",
    "history": [
     [
@@ -3921,6 +4025,10 @@
     [
      "2026-11-25",
      67.05
+    ],
+    [
+     "2026-11-26",
+     66.96
     ]
    ]
   },
@@ -4066,6 +4174,10 @@
     [
      "2026-11-25",
      64.64
+    ],
+    [
+     "2026-11-26",
+     64.64
     ]
    ]
   },
@@ -4073,12 +4185,12 @@
    "name": "Малко Шарково",
    "basin": "БДИБР",
    "totalMm3": 45,
-   "availableMm3": 34.752,
-   "pct": 77.23,
-   "usefulPct": 75.07,
-   "inflow": 0.078,
+   "availableMm3": 34.781,
+   "pct": 77.29,
+   "usefulPct": 75.14,
+   "inflow": 0.416,
    "outflow": 0.078,
-   "trend": "steady",
+   "trend": "up",
    "history": [
     [
      "2026-10-09",
@@ -4211,6 +4323,10 @@
     [
      "2026-11-25",
      77.23
+    ],
+    [
+     "2026-11-26",
+     77.29
     ]
    ]
   },
@@ -4218,9 +4334,9 @@
    "name": "Домлян",
    "basin": "БДИБР",
    "totalMm3": 26.074,
-   "availableMm3": 5.176,
-   "pct": 19.85,
-   "usefulPct": 17.64,
+   "availableMm3": 5.214,
+   "pct": 20,
+   "usefulPct": 17.79,
    "inflow": 0.474,
    "outflow": 0.03,
    "trend": "up",
@@ -4356,6 +4472,10 @@
     [
      "2026-11-25",
      19.85
+    ],
+    [
+     "2026-11-26",
+     20
     ]
    ]
   },
@@ -4366,9 +4486,9 @@
    "availableMm3": 46.494,
    "pct": 22.51,
    "usefulPct": 21.21,
-   "inflow": 0.851,
+   "inflow": 0.18,
    "outflow": 0.18,
-   "trend": "up",
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -4501,6 +4621,10 @@
     [
      "2026-11-25",
      22.51
+    ],
+    [
+     "2026-11-26",
+     22.51
     ]
    ]
   },
@@ -4508,10 +4632,10 @@
    "name": "Тополница",
    "basin": "БДИБР",
    "totalMm3": 137.108,
-   "availableMm3": 43.155,
-   "pct": 31.48,
-   "usefulPct": 19.77,
-   "inflow": 1.736,
+   "availableMm3": 43.256,
+   "pct": 31.55,
+   "usefulPct": 19.86,
+   "inflow": 1.748,
    "outflow": 0.579,
    "trend": "up",
    "history": [
@@ -4646,6 +4770,10 @@
     [
      "2026-11-25",
      31.48
+    ],
+    [
+     "2026-11-26",
+     31.55
     ]
    ]
   },
@@ -4790,6 +4918,10 @@
     ],
     [
      "2026-11-25",
+     56.74
+    ],
+    [
+     "2026-11-26",
      56.74
     ]
    ]
@@ -4936,6 +5068,10 @@
     [
      "2026-11-25",
      99.54
+    ],
+    [
+     "2026-11-26",
+     99.54
     ]
    ]
   },
@@ -4943,11 +5079,11 @@
    "name": "Александър Стамболийски",
    "basin": "БДДР",
    "totalMm3": 205.569,
-   "availableMm3": 142.217,
-   "pct": 69.18,
-   "usefulPct": 65.86,
-   "inflow": 3.067,
-   "outflow": 1.107,
+   "availableMm3": 142.386,
+   "pct": 69.26,
+   "usefulPct": 65.95,
+   "inflow": 2.903,
+   "outflow": 0.942,
    "trend": "up",
    "history": [
     [
@@ -5081,6 +5217,10 @@
     [
      "2026-11-25",
      69.18
+    ],
+    [
+     "2026-11-26",
+     69.26
     ]
    ]
   },
@@ -5088,10 +5228,10 @@
    "name": "Копринка",
    "basin": "БДИБР",
    "totalMm3": 142.214,
-   "availableMm3": 65.341,
-   "pct": 45.95,
-   "usefulPct": 43.81,
-   "inflow": 2.508,
+   "availableMm3": 65.537,
+   "pct": 46.08,
+   "usefulPct": 43.95,
+   "inflow": 3.269,
    "outflow": 0.995,
    "trend": "up",
    "history": [
@@ -5226,6 +5366,10 @@
     [
      "2026-11-25",
      45.95
+    ],
+    [
+     "2026-11-26",
+     46.08
     ]
    ]
   },
@@ -5233,9 +5377,9 @@
    "name": "Белмекен",
    "basin": "БДИБР",
    "totalMm3": 144.036,
-   "availableMm3": 99.967,
-   "pct": 69.4,
-   "usefulPct": 68.57,
+   "availableMm3": 99.355,
+   "pct": 68.98,
+   "usefulPct": 68.14,
    "inflow": null,
    "outflow": null,
    "trend": "down",
@@ -5371,6 +5515,10 @@
     [
      "2026-11-25",
      69.4
+    ],
+    [
+     "2026-11-26",
+     68.98
     ]
    ]
   },
@@ -5378,9 +5526,9 @@
    "name": "Чаира",
    "basin": "БДИБР",
    "totalMm3": 5.5,
-   "availableMm3": 3.679,
-   "pct": 66.89,
-   "usefulPct": 55.92,
+   "availableMm3": 4.255,
+   "pct": 77.37,
+   "usefulPct": 69.87,
    "inflow": null,
    "outflow": null,
    "trend": "up",
@@ -5516,6 +5664,10 @@
     [
      "2026-11-25",
      66.89
+    ],
+    [
+     "2026-11-26",
+     77.37
     ]
    ]
   },
@@ -5523,9 +5675,9 @@
    "name": "Голям Беглик",
    "basin": "БДИБР",
    "totalMm3": 62.111,
-   "availableMm3": 44.031,
-   "pct": 70.89,
-   "usefulPct": 68.92,
+   "availableMm3": 43.963,
+   "pct": 70.78,
+   "usefulPct": 68.8,
    "inflow": null,
    "outflow": null,
    "trend": "down",
@@ -5661,6 +5813,10 @@
     [
      "2026-11-25",
      70.89
+    ],
+    [
+     "2026-11-26",
+     70.78
     ]
    ]
   },
@@ -5668,9 +5824,9 @@
    "name": "Широка поляна",
    "basin": "БДИБР",
    "totalMm3": 23.98,
-   "availableMm3": 11.296,
-   "pct": 47.11,
-   "usefulPct": 38.66,
+   "availableMm3": 11.213,
+   "pct": 46.76,
+   "usefulPct": 38.26,
    "inflow": null,
    "outflow": null,
    "trend": "down",
@@ -5806,6 +5962,10 @@
     [
      "2026-11-25",
      47.11
+    ],
+    [
+     "2026-11-26",
+     46.76
     ]
    ]
   },
@@ -5813,11 +5973,11 @@
    "name": "Беглика",
    "basin": "БДИБР",
    "totalMm3": 1.554,
-   "availableMm3": 0.8,
-   "pct": 51.5,
-   "usefulPct": 42.55,
-   "inflow": 0.072,
-   "outflow": 0.324,
+   "availableMm3": 0.776,
+   "pct": 49.96,
+   "usefulPct": 40.73,
+   "inflow": 0.049,
+   "outflow": 0.326,
    "trend": "down",
    "history": [
     [
@@ -5951,6 +6111,10 @@
     [
      "2026-11-25",
      51.5
+    ],
+    [
+     "2026-11-26",
+     49.96
     ]
    ]
   },
@@ -5958,11 +6122,11 @@
    "name": "Тошков Чарк",
    "basin": "БДИБР",
    "totalMm3": 1.782,
-   "availableMm3": 0.843,
-   "pct": 47.33,
-   "usefulPct": 37.67,
-   "inflow": 0.175,
-   "outflow": 0.318,
+   "availableMm3": 0.826,
+   "pct": 46.33,
+   "usefulPct": 36.5,
+   "inflow": 0.177,
+   "outflow": 0.382,
    "trend": "down",
    "history": [
     [
@@ -6096,6 +6260,10 @@
     [
      "2026-11-25",
      47.33
+    ],
+    [
+     "2026-11-26",
+     46.33
     ]
    ]
   },
@@ -6103,11 +6271,11 @@
    "name": "Батак",
    "basin": "БДИБР",
    "totalMm3": 310.298,
-   "availableMm3": 211.875,
-   "pct": 68.28,
-   "usefulPct": 66.1,
-   "inflow": 4.556,
-   "outflow": 7.76,
+   "availableMm3": 211.598,
+   "pct": 68.19,
+   "usefulPct": 66.01,
+   "inflow": 4.022,
+   "outflow": 7.226,
    "trend": "down",
    "history": [
     [
@@ -6241,6 +6409,10 @@
     [
      "2026-11-25",
      68.28
+    ],
+    [
+     "2026-11-26",
+     68.19
     ]
    ]
   },
@@ -6248,12 +6420,12 @@
    "name": "Доспат",
    "basin": "БДЗБР",
    "totalMm3": 449.249,
-   "availableMm3": 313.04,
-   "pct": 69.68,
-   "usefulPct": 68.64,
-   "inflow": 2.064,
-   "outflow": 2.064,
-   "trend": "steady",
+   "availableMm3": 312.842,
+   "pct": 69.64,
+   "usefulPct": 68.59,
+   "inflow": 3.168,
+   "outflow": 5.46,
+   "trend": "down",
    "history": [
     [
      "2026-10-09",
@@ -6386,6 +6558,10 @@
     [
      "2026-11-25",
      69.68
+    ],
+    [
+     "2026-11-26",
+     69.64
     ]
    ]
   },
@@ -6393,11 +6569,11 @@
    "name": "Цанков камък",
    "basin": "БДИБР",
    "totalMm3": 110.708,
-   "availableMm3": 77.818,
-   "pct": 70.29,
-   "usefulPct": 58.63,
-   "inflow": 5.222,
-   "outflow": 8.605,
+   "availableMm3": 77.26,
+   "pct": 69.79,
+   "usefulPct": 57.93,
+   "inflow": 2.51,
+   "outflow": 8.967,
    "trend": "down",
    "history": [
     [
@@ -6531,6 +6707,10 @@
     [
      "2026-11-25",
      70.29
+    ],
+    [
+     "2026-11-26",
+     69.79
     ]
    ]
   },
@@ -6541,9 +6721,9 @@
    "availableMm3": 157.014,
    "pct": 69.44,
    "usefulPct": 65.72,
-   "inflow": 9.328,
-   "outflow": 11.619,
-   "trend": "down",
+   "inflow": 10.151,
+   "outflow": 10.151,
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -6676,6 +6856,10 @@
     [
      "2026-11-25",
      69.44
+    ],
+    [
+     "2026-11-26",
+     69.44
     ]
    ]
   },
@@ -6683,12 +6867,12 @@
    "name": "Кричим",
    "basin": "БДИБР",
    "totalMm3": 20.256,
-   "availableMm3": 19.858,
-   "pct": 98.03,
-   "usefulPct": 97.85,
-   "inflow": 11.332,
-   "outflow": 8.926,
-   "trend": "up",
+   "availableMm3": 19.693,
+   "pct": 97.22,
+   "usefulPct": 96.96,
+   "inflow": 9.812,
+   "outflow": 11.716,
+   "trend": "down",
    "history": [
     [
      "2026-10-09",
@@ -6821,6 +7005,10 @@
     [
      "2026-11-25",
      98.03
+    ],
+    [
+     "2026-11-26",
+     97.22
     ]
    ]
   },
@@ -6828,11 +7016,11 @@
    "name": "Кърджали",
    "basin": "БДИБР",
    "totalMm3": 497.236,
-   "availableMm3": 345.804,
-   "pct": 69.55,
-   "usefulPct": 61.18,
-   "inflow": 6.379,
-   "outflow": 24.366,
+   "availableMm3": 344.255,
+   "pct": 69.23,
+   "usefulPct": 60.78,
+   "inflow": 3.571,
+   "outflow": 21.504,
    "trend": "down",
    "history": [
     [
@@ -6966,6 +7154,10 @@
     [
      "2026-11-25",
      69.55
+    ],
+    [
+     "2026-11-26",
+     69.23
     ]
    ]
   },
@@ -6973,11 +7165,11 @@
    "name": "Студен кладенец",
    "basin": "БДИБР",
    "totalMm3": 387.772,
-   "availableMm3": 221.921,
-   "pct": 57.23,
-   "usefulPct": 44.18,
-   "inflow": 19.957,
-   "outflow": 30.864,
+   "availableMm3": 221.545,
+   "pct": 57.13,
+   "usefulPct": 44.05,
+   "inflow": 26.551,
+   "outflow": 30.899,
    "trend": "down",
    "history": [
     [
@@ -7111,6 +7303,10 @@
     [
      "2026-11-25",
      57.23
+    ],
+    [
+     "2026-11-26",
+     57.13
     ]
    ]
   },
@@ -7121,9 +7317,9 @@
    "availableMm3": 112.965,
    "pct": 72.09,
    "usefulPct": 54.99,
-   "inflow": 29.82,
-   "outflow": 27.12,
-   "trend": "up",
+   "inflow": 31.593,
+   "outflow": 31.593,
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -7256,6 +7452,10 @@
     [
      "2026-11-25",
      72.09
+    ],
+    [
+     "2026-11-26",
+     72.09
     ]
    ]
   },
@@ -7268,7 +7468,7 @@
    "usefulPct": 56.59,
    "inflow": null,
    "outflow": null,
-   "trend": "down",
+   "trend": "steady",
    "history": [
     [
      "2026-10-09",
@@ -7400,6 +7600,10 @@
     ],
     [
      "2026-11-25",
+     84.82
+    ],
+    [
+     "2026-11-26",
      84.82
     ]
    ]
